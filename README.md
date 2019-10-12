@@ -1,2 +1,5 @@
-# design-patterns
-Case study about design-patterns using Java
+# Design Patterns
+
+Case study about design-patterns using Java.
+
+
